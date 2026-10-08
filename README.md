@@ -1,3 +1,5 @@
+> **Moved.** This package now lives in [mark1russell7/client](https://github.com/mark1russell7/client/tree/main/packages/client-procedure), with its full history. This repository is archived.
+
 # @mark1russell7/client-procedure
 
 [![npm version](https://img.shields.io/npm/v/@mark1russell7/client-procedure.svg)](https://www.npmjs.com/package/@mark1russell7/client-procedure)
